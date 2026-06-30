@@ -1,0 +1,6 @@
+{
+  "name": "Roleta do Conhecimento",
+  "description": "Jogo interativo de gamificação educacional com roleta de perguntas, níveis de dificuldade e sistema de pontuação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
